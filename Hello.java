@@ -21,4 +21,8 @@ public class Hello{
 
 		System.out.println("helloooooooooooooooooooooo");
 	}
+	
+	public void test04(){
+		System.out.println("test04-------------------");
+	}
 }
