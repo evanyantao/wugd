@@ -12,4 +12,9 @@ public class Hello{
 	public void test02(){
 		System.out.println("Test02... AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA......");
 	}
+
+	public void test03(){
+
+		System.out.println("helloooooooooooooooooooooo");
+	}
 }
