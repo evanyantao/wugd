@@ -5,6 +5,7 @@ public class Hello{
 
 	public void test01(){
 		System.out.println("Test01 ============PPPPPPPPPPPPPPPPPPPPPP");
+		System.out.print("YYYYYYYYYYYYYYYYYYYYYYYYYYY");
 	}
 
 
