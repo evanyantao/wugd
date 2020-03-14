@@ -9,6 +9,6 @@ public class Hello{
 
 
 	public void test02(){
-		System.out.println("Test02...");
+		System.out.println("Test02... Evanyantao。。。。");
 	}
 }
